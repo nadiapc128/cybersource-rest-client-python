@@ -1,10 +1,10 @@
-certifi==2021.5.30
+certifi
 pycryptodome
-PyJWT==1.7.1
-pyOpenSSL==19.1.0
+PyJWT
+pyOpenSSL
 DateTime
 setuptools
-six==1.15.0
+six
 urllib3==1.26.6
 crypto
-cryptography==3.3.2
+cryptography
