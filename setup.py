@@ -33,7 +33,7 @@ setup(
         "PyJWT==1.7.1",
         "pyOpenSSL==19.1.0",
         "pytz==2022.1",
-        "PyYAML==6.0",
+        "PyYAML==5.4.1",
         "requests==2.25.1",
         "shellescape==3.8.1",
         "six==1.15.0",
