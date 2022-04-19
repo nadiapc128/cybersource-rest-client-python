@@ -30,7 +30,7 @@ setup(
         "idna==2.10",
         "Naked==0.1.31",
         "pycparser==2.21",
-        "pycryptodome==3.14.1",
+        "pycryptodome==3.13.0",
         "PyJWT==1.7.1",
         "pyOpenSSL==19.1.0",
         "pytz==2020.1",
