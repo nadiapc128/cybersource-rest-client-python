@@ -22,6 +22,7 @@ setup(
     install_requires=[
         "certifi==2021.5.30",
         "cffi==1.15.0",
+        "chardet==4.0.0",
         "charset-normalizer==2.0.12",
         "crypto==1.4.1",
         "cryptography==3.3.2",
@@ -37,8 +38,8 @@ setup(
         "requests==2.25.1",
         "shellescape==3.8.1",
         "six==1.15.0",
-        "zope.interface==5.4.0",
         "urllib3==1.26.6",
+        "zope.interface==5.4.0",
     ],
     packages=find_packages(),
     include_package_data=True,
